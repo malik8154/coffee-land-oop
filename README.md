@@ -1,7 +1,3 @@
-Got it ✅ Since now your **Coffee-Land-OOP** project includes the **billing + payment system with insufficient funds handling (reduce items or add money)**, here’s the **final professional README** you can directly copy-paste into your repo:
-
----
-
 # ☕ Coffee-Land-OOP
 
 A **C++ Object-Oriented Programming (OOP) based Coffee Shop Management System** that simulates a café environment. The program is fully menu-driven and demonstrates core OOP concepts while offering a realistic billing and payment experience.
