@@ -50,26 +50,6 @@ coffee-land-oop/
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/coffee-land-oop.git
-   ```
-2. Compile the program:
-
-   ```bash
-   g++ coffee_land.cpp -o coffee_land
-   ```
-3. Run the executable:
-
-   ```bash
-   ./coffee_land
-   ```
-
----
-
 ## 🎯 Learning Outcomes
 
 * Strong understanding of OOP fundamentals in C++.
