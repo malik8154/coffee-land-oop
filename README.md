@@ -1,10 +1,10 @@
-# ☕ Coffee-Land-OOP
+# Coffee-Land-OOP
 
 A **C++ Object-Oriented Programming (OOP) based Coffee Shop Management System** that simulates a café environment. The program is fully menu-driven and demonstrates core OOP concepts while offering a realistic billing and payment experience.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Menu-driven system for:
 
@@ -32,14 +32,14 @@ A **C++ Object-Oriented Programming (OOP) based Coffee Shop Management System** 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **C++** (Object-Oriented Programming)
 * Standard Input/Output
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 coffee-land-oop/
@@ -50,7 +50,7 @@ coffee-land-oop/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Strong understanding of OOP fundamentals in C++.
 * Hands-on practice with menu-driven programs.
